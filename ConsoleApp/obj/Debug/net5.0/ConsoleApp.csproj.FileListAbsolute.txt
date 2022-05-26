@@ -1,0 +1,15 @@
+D:\develop\project euler solutions\ConsoleApp\bin\Debug\net5.0\ConsoleApp.exe
+D:\develop\project euler solutions\ConsoleApp\bin\Debug\net5.0\ConsoleApp.deps.json
+D:\develop\project euler solutions\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+D:\develop\project euler solutions\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+D:\develop\project euler solutions\ConsoleApp\bin\Debug\net5.0\ConsoleApp.dll
+D:\develop\project euler solutions\ConsoleApp\bin\Debug\net5.0\ref\ConsoleApp.dll
+D:\develop\project euler solutions\ConsoleApp\bin\Debug\net5.0\ConsoleApp.pdb
+D:\develop\project euler solutions\ConsoleApp\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\develop\project euler solutions\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\develop\project euler solutions\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+D:\develop\project euler solutions\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\develop\project euler solutions\ConsoleApp\obj\Debug\net5.0\ConsoleApp.dll
+D:\develop\project euler solutions\ConsoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll
+D:\develop\project euler solutions\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb
+D:\develop\project euler solutions\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
