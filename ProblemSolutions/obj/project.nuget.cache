@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UXah/BYJQrbP1o0VLs+Qm4mlG+8SXJbhZPO4qxpkHx3LGWEbA40DTF4I1SMBihE/EJoNJHTnPcB5sVXjm3L5nw==",
+  "success": true,
+  "projectFilePath": "D:\\develop\\project euler solutions\\ProblemSolutions\\ProblemSolutions.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gorde\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

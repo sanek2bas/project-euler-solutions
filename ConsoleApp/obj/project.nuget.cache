@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NwRVme9Td+Teeny5BmuLxZT4uMeyKiiFQ+/dVJWDVuoDN+f64lz2A5gVXzGpum0KXMgpXUQJwFmadlA9sfDymA==",
+  "dgSpecHash": "RbMTdS61jvGANp+MCBSXtThizhBi5TVexDck66Asv3Wc1SeW7QBvdDsVNIEcbIJSQNawh9zhOkV31Koq75hjxw==",
   "success": true,
   "projectFilePath": "D:\\develop\\project euler solutions\\ConsoleApp\\ConsoleApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\gorde\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

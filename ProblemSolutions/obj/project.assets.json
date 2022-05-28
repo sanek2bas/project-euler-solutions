@@ -51,19 +51,6 @@
             "locale": "zh-Hant"
           }
         }
-      },
-      "ProblemSolutions/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "FSharp.Core": "5.0.0"
-        },
-        "compile": {
-          "bin/placeholder/ProblemSolutions.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ProblemSolutions.dll": {}
-        }
       }
     }
   },
@@ -94,16 +81,11 @@
         "lib/netstandard2.0/zh-Hans/FSharp.Core.resources.dll",
         "lib/netstandard2.0/zh-Hant/FSharp.Core.resources.dll"
       ]
-    },
-    "ProblemSolutions/1.0.0": {
-      "type": "project",
-      "path": "../ProblemSolutions/ProblemSolutions.fsproj",
-      "msbuildProject": "../ProblemSolutions/ProblemSolutions.fsproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "ProblemSolutions >= 1.0.0"
+      "FSharp.Core >= 5.0.0"
     ]
   },
   "packageFolders": {
@@ -114,11 +96,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\develop\\project euler solutions\\ConsoleApp\\ConsoleApp.csproj",
-      "projectName": "ConsoleApp",
-      "projectPath": "D:\\develop\\project euler solutions\\ConsoleApp\\ConsoleApp.csproj",
+      "projectUniqueName": "D:\\develop\\project euler solutions\\ProblemSolutions\\ProblemSolutions.fsproj",
+      "projectName": "ProblemSolutions",
+      "projectPath": "D:\\develop\\project euler solutions\\ProblemSolutions\\ProblemSolutions.fsproj",
       "packagesPath": "C:\\Users\\gorde\\.nuget\\packages\\",
-      "outputPath": "D:\\develop\\project euler solutions\\ConsoleApp\\obj\\",
+      "outputPath": "D:\\develop\\project euler solutions\\ProblemSolutions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -140,22 +122,21 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {
-            "D:\\develop\\project euler solutions\\ProblemSolutions\\ProblemSolutions.fsproj": {
-              "projectPath": "D:\\develop\\project euler solutions\\ProblemSolutions\\ProblemSolutions.fsproj"
-            }
-          }
+          "projectReferences": {}
         }
-      },
-      "warningProperties": {
-        "warnAsError": [
-          "NU1605"
-        ]
       }
     },
     "frameworks": {
       "net5.0": {
         "targetAlias": "net5.0",
+        "dependencies": {
+          "FSharp.Core": {
+            "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+            "target": "Package",
+            "version": "[5.0.0, )",
+            "generatePathProperty": true
+          }
+        },
         "imports": [
           "net461",
           "net462",

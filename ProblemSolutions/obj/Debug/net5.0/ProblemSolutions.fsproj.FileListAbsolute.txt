@@ -1,0 +1,9 @@
+D:\develop\project euler solutions\ProblemSolutions\obj\Debug\net5.0\ProblemSolutions.AssemblyInfoInputs.cache
+D:\develop\project euler solutions\ProblemSolutions\obj\Debug\net5.0\ProblemSolutions.AssemblyInfo.fs
+D:\develop\project euler solutions\ProblemSolutions\bin\Debug\net5.0\ProblemSolutions.deps.json
+D:\develop\project euler solutions\ProblemSolutions\bin\Debug\net5.0\ProblemSolutions.dll
+D:\develop\project euler solutions\ProblemSolutions\bin\Debug\net5.0\ProblemSolutions.pdb
+D:\develop\project euler solutions\ProblemSolutions\bin\Debug\net5.0\ProblemSolutions.xml
+D:\develop\project euler solutions\ProblemSolutions\obj\Debug\net5.0\ProblemSolutions.dll
+D:\develop\project euler solutions\ProblemSolutions\obj\Debug\net5.0\ProblemSolutions.xml
+D:\develop\project euler solutions\ProblemSolutions\obj\Debug\net5.0\ProblemSolutions.pdb
