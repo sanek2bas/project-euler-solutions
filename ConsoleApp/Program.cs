@@ -8,7 +8,7 @@ namespace ConsoleApp
         {
             while (true)
             {
-                Console.Write("Enter problem number or exit to exit program: ");
+                Console.Write("Enter problem solution number or exit to exit program: ");
                 var numberStr = Console.ReadLine();
                 if (numberStr == "exit")
                     break;
