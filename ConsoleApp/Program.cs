@@ -23,11 +23,14 @@ namespace ConsoleApp
                     continue;
                 }
 
-                int result;
+                ulong result;
                 switch (number)
                 {
                     case 1:
                         result = Problem_1.GetResult;
+                        break;
+                    case 10:
+                        result = Problem_10.GetResult;
                         break;
                     default:
                         Console.WriteLine("There is no problem with this number");
