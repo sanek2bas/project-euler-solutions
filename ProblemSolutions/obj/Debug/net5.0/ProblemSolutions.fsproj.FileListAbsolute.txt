@@ -7,3 +7,4 @@ D:\develop\project euler solutions\ProblemSolutions\bin\Debug\net5.0\ProblemSolu
 D:\develop\project euler solutions\ProblemSolutions\obj\Debug\net5.0\ProblemSolutions.dll
 D:\develop\project euler solutions\ProblemSolutions\obj\Debug\net5.0\ProblemSolutions.xml
 D:\develop\project euler solutions\ProblemSolutions\obj\Debug\net5.0\ProblemSolutions.pdb
+D:\develop\project euler solutions\ProblemSolutions\obj\Debug\net5.0\ProblemSolutions.fsproj.AssemblyReference.cache

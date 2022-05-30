@@ -10,4 +10,4 @@ let public GetResult =
     let limit = 999;
     let three = 3;
     let five = 5;
-    (uint64) (sumDevidableByX(three, 1000) + sumDevidableByX(five, limit) - sumDevidableByX(three * five, limit))
+    sumDevidableByX(three, 1000) + sumDevidableByX(five, limit) - sumDevidableByX(three * five, limit)
