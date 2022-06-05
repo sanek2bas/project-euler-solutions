@@ -1,4 +1,5 @@
-﻿using System; 
+﻿using System;
+using System.Reflection;
 
 namespace ConsoleApp
 {
@@ -6,6 +7,10 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
+            var gt = Assembly.GetEntryAssembly();
+            var gtdf = Assembly.GetCallingAssembly();
+            var t = 5;
+
             while (true)
             {
                 Console.Write("Enter problem solution number or exit to exit program: ");
@@ -28,6 +33,9 @@ namespace ConsoleApp
                 {
                     case 1:
                         result = Problem_1.GetResult.ToString();
+                        break;
+                    case 2:
+                        result = Problem_2.GetResult.ToString();
                         break;
                     case 10:
                         result = Problem_10.GetResult.ToString();

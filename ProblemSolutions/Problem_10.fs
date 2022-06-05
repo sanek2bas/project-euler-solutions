@@ -22,5 +22,5 @@ let private getSumOfPrimes (max: int) =
     result
 
 let public GetResult =
-    let twoMillion = 2000000
-    getSumOfPrimes(twoMillion)    
+    let maxPrime = 2000000
+    getSumOfPrimes(maxPrime)    
